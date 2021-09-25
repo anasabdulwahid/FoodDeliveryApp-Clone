@@ -1,0 +1,30 @@
+Discord Community
+https://discord.com/channels/870037829164621824/870037829164621827
+
+2.05mins folllow
+
+https://www.youtube.com/watch?v=jmvbhuJXFow
+
+npm add react-native-vector-icons
+
+https://www.npmjs.com/package/react-native-google-places-autocomplete
+npm install react-native-google-places-autocomplete --save
+
+YELP API==140 MINS
+https://www.yelp.com/fusion
+yelp url
+https://api.yelp.com/v3/businesses/search?term=restaurants&location=Singapore
+
+google API Key
+1.50mins restrict
+AIzaSyCL_Zq-gxI2J2b5SJeA7zKCFS6Qt7SIBR0
+
+bottom tab
+npm add react-native-elements
+twice submit same 
+npm dedupe
+expo add react-native-elements
+
+de bug
+react native app ios bundle complete but not showing project blank screen
+https://www.google.com/search?q=react+native+app+ios+bundle+complete+but+not+showing+project+blank+screen&rlz=1C1CHBF_enSG884SG884&oq=react+native+app+ios+bundle+complete+but+not+showing+project+blank+screen&aqs=chrome..69i57j69i64l3.35802j0j7&sourceid=chrome&ie=UTF-8
